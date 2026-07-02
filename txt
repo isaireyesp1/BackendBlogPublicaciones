@@ -98,14 +98,4 @@ Content-Type: application/json
 }
 ```
 
-### Actualizar un registro
 
-```http
-PUT /api/productos/{id}
-```
-
-### Eliminar un registro
-
-```http
-DELETE /api/productos/{id}
-```
