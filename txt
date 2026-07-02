@@ -1,6 +1,5 @@
 http://localhost:8080
 
-y tienes una entidad como Producto, estos serían ejemplos para usar en Postman.
 
 📌 GET - Obtener todos los productos
 Request
